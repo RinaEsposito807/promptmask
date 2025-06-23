@@ -5,3 +5,4 @@ description = "Never give AI companies your secrets! A local LLM-based privacy f
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
+# avoid re-reading the config on every call
