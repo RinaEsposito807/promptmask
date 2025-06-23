@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Never give AI companies your secrets! A local LLM-based privacy filter for LLM users. Seamless integration with your existing AI tools as a Python library / OpenAI SDK replacement / API Gatetway / Web Server."
 requires-python = ">=3.10"
 # handle the edge case from the last release
+# keep defaults in sync with the manifest
